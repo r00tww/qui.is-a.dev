@@ -48,7 +48,7 @@ Download OpenVPN, and connect to your VPN.
 If you are using KDE Plasma, you don't need to download OpenVPN app. Just go to
 * Settings
 * Wi-Fi & Internet
-* +
+* `+`
 * Import new connection
 * Select your OVPN file
 * Click to network button in your taskbar
