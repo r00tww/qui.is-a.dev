@@ -1,1 +1,1 @@
-[[Linux Servers]]
+[[Linux Server]]
