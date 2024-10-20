@@ -13,10 +13,7 @@ Welcome to my notes.
 
 - I am from `Turkiye`.
 
-<hr>
+# My Notes
 
-To access my notes, please click [here](/Notes).
-
-<hr>
-
-Categorized index: [Notes]([[Notes/index.md]])
+[[Server Guide]]
+[[OpenVPN]]
