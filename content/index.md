@@ -19,4 +19,4 @@ To access my notes, please click [here](/Notes).
 
 <hr>
 
-[[Notes]]
+Categorized index: [Notes]([[Notes/index.md]])
