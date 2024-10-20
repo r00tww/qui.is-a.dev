@@ -11,8 +11,6 @@ Welcome to my notes.
     - History
     - Geography
 
-- I am `13` years old.
-
 - I am from `Turkiye`.
 
 <hr>
