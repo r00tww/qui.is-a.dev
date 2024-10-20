@@ -15,5 +15,4 @@ Welcome to my notes.
 
 # My Notes
 
-[[Server Guide]]
-[[OpenVPN]]
+[[Tech]]
