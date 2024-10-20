@@ -16,3 +16,7 @@ Welcome to my notes.
 <hr>
 
 To access my notes, please click [here](/Notes).
+
+<hr>
+
+[[Notes]]
