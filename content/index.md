@@ -13,6 +13,8 @@ Welcome to my notes.
 
 - I am from `Turkiye`.
 
+[[Useful Links]]
+
 # My Notes
 
 [[Tech]]
